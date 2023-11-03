@@ -1,0 +1,27 @@
+.navlinks {
+    padding: 17px;
+}
+.bodytext {
+    padding: 10px;
+    color: white;
+}
+.catpicture {
+    border: 2px solid black;
+}
+.centerme {
+    text-align: center;
+}
+#skillboxpadding {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#skillbox {
+    border: 1px solid gray;
+    padding: 10px;
+}
+#advicepadding {
+    padding: 30px;
+}
+.footercolor {
+    background-color: #f8f9fb;
+}
